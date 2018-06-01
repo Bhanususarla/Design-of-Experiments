@@ -2,3 +2,6 @@
 Designed experiments to determine the damping co-efficients of Poron cushions/thermal pads and the fatigue limits of Aluminum and Magnesium. Prepared fixtures, ran multiple Sinusoidal sweeps and random vibration tests, utilized the test data to determine material properties.
 
 As part of preparing fixtures for fatigue tests, the entire test bed needed to be halved in size to fit the shaker. The attached dimensional analysis was used to determine the new weights at the end of the beams such that the natural frequency of each beam/weight combination remains the same.
+
+
+![fatigue](https://user-images.githubusercontent.com/25946127/40826132-9cbdd386-652e-11e8-9059-a6aa947595bf.jpg)
